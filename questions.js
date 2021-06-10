@@ -2,6 +2,7 @@
 // process.stdout.write("Hello");
 // process.stdout.write(" world \n\n \n");
 
+//Question answer
 const questions = [
   "What is your name?",
   "Where are you from?",
