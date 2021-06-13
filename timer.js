@@ -1,3 +1,4 @@
+//this is the timer implementation in percentage using setIntercal
 const waitTime = 5000;
 const waitInterval = 500;
 let currentTime = 0;
